@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey You👋
 
-<!--
-**athul1706/athul1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b> I'm Athul </b>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAid-3n)
+- I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />
+
+
+![ATHUL's github stats](https://github-readme-stats.vercel.app/api?username=athul1706&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=dark)
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAid-3n)
+
+
+### REACH ME HERE
+
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="40px" />](https://tx.me/Pubgplayer1)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:athulrajm122@gmail.com)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="40px" />](https://www.instagram.com/at.h.ul._/)
