@@ -9,7 +9,7 @@
 
 ![ATHUL's github stats](https://github-readme-stats.vercel.app/api?username=athul1706&show_icons=true&title_color=cc3300&icon_color=000000&text_color=003366&bg_color=fafafa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=one_dark_pro)
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAid-3n)
